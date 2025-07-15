@@ -6,7 +6,7 @@ SalonApp - Приложение для записи к бьюти-мастера
 
 🚀 Установка и запуск Клонируйте репозиторий:
 
-bash git clone https://github.com/yourusername/BeautyBook.git
+bash git clone https://github.com/rebound52/SalonApp2.git
 Установите зависимости:
 
 bash cd BeautyBook
